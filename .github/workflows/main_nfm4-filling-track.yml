@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'NFM4-Filling-Track'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DA29C4A6A2A463FBB3E000E4B09FD92 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5ACCCE4C479444EB163F7EB241D5E09 }}
