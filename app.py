@@ -112,4 +112,4 @@ def callback_a(btn1):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, host='0.0.0.0', port='3000')
+    app.run_server(debug=True)
